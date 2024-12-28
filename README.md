@@ -1,7 +1,7 @@
 # Problem Var
 Bu Python programı, kullanıcıların bilgisayar başında olmadıkları zamanlarda, bilgisayarlarına başkalarının müdahale edip etmediğini öğrenmelerini sağlar. Program, belirli aralıklarla hem görüntü hem de ses kaydı alır. Bu sayede, bilgisayarınızda kimlerin müdahale ettiğini tespit edebilir ve kaydedilen ses ve görüntü dosyalarını inceleyerek başkalarının bilgisayarınıza izinsiz erişip erişmediğini öğrenebilirsiniz.
 
-Özellikler
+**Özellikler**
 - **Görüntü Kaydı**: Program, belirli aralıklarla kameradan görüntü alır ve kaydeder.
 - **Ses Kaydı**: Program, belirli bir süre boyunca ses kaydı yapar ve kaydeder.
 - **Ayrı Thread'lerde Çalışma**: Görüntü ve ses kaydı işlemleri aynı anda çalışır.
