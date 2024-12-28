@@ -18,13 +18,13 @@ Bu projeyi kullanabilmek için bazı Python kütüphanelerini kurmanız gerekmek
 Gereksinimlerinizi aşağıdaki komutları kullanarak kurabilirsiniz:
 
    ```bash
-    pip install pyaudio opencv-python
+pip install pyaudio opencv-python
    ``` 
 Eğer `pyaudio` kurulumu sırasında sorun yaşarsanız, platformunuza uygun bir şekilde yükleyebilirsiniz. Örneğin, Windows kullanıyorsanız, şu komutu kullanabilirsiniz:
    
 ```bash
-      pip install pipwin
-      pipwin install pyaudio
+ pip install pipwin
+ pipwin install pyaudio
  ```
 ## Konfigürasyon
 
@@ -54,7 +54,7 @@ Programda, ses ve görüntü kaydını özelleştirebileceğiniz bazı önemli p
 **1.** Scripti çalıştırın:
 
 ```bash
-         python ProblemVar.py
+python ProblemVar.py
 ```
 **2.** Program, ses ve görüntü kaydını başlatacaktır. Ses kaydı, belirtilen ayarlara göre yapılacak ve görüntü kaydı belirli aralıklarla alınacaktır.
 **3.** Verilerin kaydedilmesi:
