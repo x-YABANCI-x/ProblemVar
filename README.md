@@ -57,6 +57,7 @@ Programda, ses ve görüntü kaydını özelleştirebileceğiniz bazı önemli p
 python ProblemVar.py
 ```
 **2.** Program, ses ve görüntü kaydını başlatacaktır. Ses kaydı, belirtilen ayarlara göre yapılacak ve görüntü kaydı belirli aralıklarla alınacaktır.
+
 **3.** Verilerin kaydedilmesi:
 - Ses dosyaları `.wav` formatında, belirttiğiniz ses kaydı dizininde kaydedilecektir.
 - Görüntü dosyaları `.jpg` formatında, belirttiğiniz görüntü kaydı dizininde kaydedilecektir.
